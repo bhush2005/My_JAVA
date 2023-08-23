@@ -9,30 +9,30 @@ public class _07_practiceSet1 {
 
 
 // Que1 ---> take the input of three numbers from the user and by adding them show the result:
-        int num1, num2, num3, sum;
-        System.out.println("enter the three numbers :");
+        // int num1, num2, num3, sum;
+        // System.out.println("enter the three numbers :");
 
-        System.out.print("num1 :");
-        num1 = sc.nextInt();
-        System.out.print("num2 :");
-        num2 = sc.nextInt();
-        System.out.print("num3 :");
-        num3 = sc.nextInt();
+        // System.out.print("num1 :");
+        // num1 = sc.nextInt();
+        // System.out.print("num2 :");
+        // num2 = sc.nextInt();
+        // System.out.print("num3 :");
+        // num3 = sc.nextInt();
 
-        sum = num1 + num2 + num3 ;
-        System.out.println("the sum of three numbers is : " + sum );
+        // sum = num1 + num2 + num3 ;
+        // System.out.println("the sum of three numbers is : " + sum );
 
 
 // Que2 ---> write a java program to calculate the CGPA d three subject
 
-//        float sub1, sub2, sub3;
+       float sub1, sub2, sub3;
 
-//        sub1 = 65;
-//        sub2 = 68;
-//        sub3 = 45;
-//
-//        float CGPA = (sub1+sub2+sub3)/30;
-//        System.out.println("CGPA is :" + CGPA);
+       sub1 = 65;
+       sub2 = 68;
+       sub3 = 45;
+
+       float CGPA = (sub1+sub2+sub3)/3;
+       System.out.println("CGPA is :" + CGPA);
 
 
 /* Que3 ---> Write a java program which ask the user to enter his her name and returns them
