@@ -12,8 +12,8 @@ public class _09_operatorPresidence {
 
 //        int a = 60/5-34*2;
 //        /* --> 60/5-34*2
-//              =10-34*2
-//              =10-68
+//              =12-34*2
+//              = 12-68
 //          ans =-56
 //         */
 //        System.out.println(a);
